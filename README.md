@@ -1,4 +1,3 @@
 # T3rminal_
 Custom 3d printed handheld cyberdeck 
-![IMG_8245](https://github.com/crazycaleb2008/T3rminal/assets/82289282/1b86d8d7-af34-415a-a911-93a3fc79c51a)
-
+![7DC102D4-47EB-4175-8536-0A18DE9A6951_1_105_c](https://github.com/crazycaleb2008/T3rminal/assets/82289282/19aa8d19-1d64-46ac-8740-8ab42c951860)
